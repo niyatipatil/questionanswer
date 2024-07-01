@@ -1,0 +1,60 @@
+{
+    "questions": [
+      {
+        "question": "Select Primary Colors",
+        "options": [
+          "Red", "Orange", "Green",
+          "Purple", "Yellow", "Indigo",
+          "Blue", "Pink", "Violet"
+        ],
+        "correctAnswers": [
+          "Red", "Yellow", "Blue"
+        ]
+      },
+      {
+        "question": "Select European Countries",
+        "options": [
+          "France", "Brazil", "India",
+          "Germany", "China", "Japan",
+          "Italy", "Canada", "Australia"
+        ],
+        "correctAnswers": [
+          "France", "Germany", "Italy"
+        ]
+      },
+      {
+        "question": "Select Prime Numbers",
+        "options": [
+          "2", "3", "12",
+          "5", "8", "4",
+          "6", "9", "10"
+        ],
+        "correctAnswers": [
+          "2", "3", "5"
+        ]
+      },
+      {
+        "question": "Select Union Territories in India",
+        "options": [
+          "Goa", "Puducherry", "West Bengal",
+          "Gujarat", "Chandigarh", "Lakshadweep",
+          "Karnataka", "Sikkim", "Nagaland"
+        ],
+        "correctAnswers": [
+          "Lakshadweep", "Puducherry", "Chandigarh"
+        ]
+      },
+      {
+        "question": "Select Rivers in India",
+        "options": [
+          "Ganges", "Danube", "Mekong",
+          "Amazon", "Nile", "Mississippi",
+          "Yamuna", "Niger", "Brahmaputra"
+        ],
+        "correctAnswers": [
+          "Ganges", "Yamuna", "Brahmaputra"
+        ]
+      }
+    ]
+  }
+  
